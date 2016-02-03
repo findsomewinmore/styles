@@ -1,5 +1,5 @@
 #CSS/Sass Style Guide
-The Findsome & Winmore CSS Style Guide (Mostly from [Airbnb](https://github.com/airbnb/css/blob/master/README.md) & [Code Guide](http://codeguide.co/)
+The Findsome & Winmore CSS Style Guide (Mostly from [Airbnb](https://github.com/airbnb/css/blob/master/README.md) & [Code Guide](http://codeguide.co/))
 
 *A mostly reasonable approach to CSS and Sass*
 
